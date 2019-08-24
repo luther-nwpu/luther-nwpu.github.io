@@ -76,10 +76,6 @@ pagination_dir: page
 ## theme: landscape
 theme: next
 
-# gitPage 升级
-include:
-  - .nojekyll
-
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
